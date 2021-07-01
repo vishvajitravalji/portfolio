@@ -235,6 +235,7 @@ h1, h2, h3, h4, h5, h6 {
 		/*box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 14px 1px rgba(0, 0, 0, 0.15);*/
 		background-color: rgba(255, 103, 68, 0.91) !important;
 		color: #fff;
+		
 }
 
 /*** teaching ***/
@@ -255,6 +256,11 @@ h1, h2, h3, h4, h5, h6 {
 	height: 500px;
 	width: auto;
 	margin-top: -4em;
+}
+
+
+.sceenshot{
+	border: 2px solid black;
 }
 
 
@@ -344,4 +350,8 @@ h1, h2, h3, h4, h5, h6 {
     margin-top: -100px;
     margin-bottom: 40px;
 
+}
+
+.sceenshot{
+	transform: scale(1.05)
 }
