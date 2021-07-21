@@ -3,7 +3,7 @@
 /*********** Global Styles********/
 
 body, html {
-		background-color: #E3E3E3;
+		background-color: lightyellow;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -30,12 +30,12 @@ h1, h2, h3, h4, h5, h6 {
 		letter-spacing: 0;
 		border-radius: 45px;
 		height: auto;
-		padding: .8em 2.1em;
+		padding: 2%;
 }
 
 .my-button:hover {
 	cursor: pointer;
-	padding: .8em 2.7em;
+	padding: 3%;
 }
 
 .my-button:active,
@@ -116,12 +116,14 @@ h1, h2, h3, h4, h5, h6 {
 		border: 2px solid rgba(255, 103, 68, 0.91);
 		border-radius: 50px;
 		background: white;
+		padding: 1%;
 }
 
 .cta .cta-button:hover, .cta .cta-button:focus {
 		box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 14px 1px rgba(0, 0, 0, 0.15);
 		background-color: rgba(255, 103, 68, 0.91);
 		color: white;
+		padding: 1.5%;
 }
 
 #about i {
@@ -179,7 +181,7 @@ h1, h2, h3, h4, h5, h6 {
 /*** work ***/
 #work {
 	padding: 6em 4em 3em;
-	background-color: #fff;
+	background-color: rgb(245, 241, 239);
 }
 
 #work h2 {
