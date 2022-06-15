@@ -456,7 +456,7 @@ section {
 # Services
 --------------------------------------------------------------*/
 .services .icon-box {
-  width: 100%;
+  width: 90%;
   padding: 10px;
   position: relative;
   overflow: hidden;
@@ -476,31 +476,31 @@ section {
 }
 
 .services .icon i {
-  font-size: 48px;
+  font-size: 40px;
   line-height: 1;
-  margin-bottom: 15px;
+  margin-bottom: 5px;
   color: #6b4798;
+}
+
+.services img{
+  width: 50px;
+  height: 45px;
+  filter: brightness(0) saturate(100%) invert(30%) sepia(10%) saturate(3304%) hue-rotate(224deg) brightness(101%) contrast(87%);
+ 
 }
 
 .services .title {
   font-weight: 600;
-  margin-bottom: 16px;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .services .title a {
   color: #111;
 }
 
-.services .description {
-  font-size: 12px;
-  line-height: 20px;
-  margin-bottom: 0;
-}
-
 .services .icon-star i {
   font-size: 15px;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
   color:#6b4798;
 }
 
