@@ -102,7 +102,7 @@ h6,
   padding: 15px 0;
   background: #fff;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
-}
+ }
 
 #header .logo img {
   padding: 0;
@@ -644,12 +644,20 @@ section {
   font-size: 20px;
   color: #fff;
   font-weight: 600;
-  margin: 30% auto;
+  margin: 20% auto;
+}
+
+.portfolio .portfolio-wrap .portfolio-info h5 {
+  font-size: 20px;
+  color: #fff;
+  font-weight: 600;
+  margin: 0 30px 200px 30px;
 }
 
 .portfolio .portfolio-wrap .portfolio-info p {
   color: #ffffff;
-  font-size: 15px;
+    font-size: 18px;
+    margin: 0 30px 35px 30px;
  
 }
 
